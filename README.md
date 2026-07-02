@@ -1,7 +1,6 @@
-###🚀 Customer Segmentation and Churn Prediction
+# 🚀 Customer Segmentation and Churn Prediction
 
-
-##📌 Project Overview
+## 📌 Project Overview
 
 This project implements a complete machine learning pipeline for **customer segmentation** and **customer churn prediction**. Customers are first grouped into similar segments using clustering algorithms, and then separate classification models are trained for each segment to predict customer churn.
 
