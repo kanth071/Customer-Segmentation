@@ -1,6 +1,6 @@
-# Customer Segmentation and Churn Prediction
+#🚀 Customer Segmentation and Churn Prediction
 
-## Project Overview
+#📌 Project Overview
 
 This project implements a complete machine learning pipeline for **customer segmentation** and **customer churn prediction**. Customers are first grouped into similar segments using clustering algorithms, and then separate classification models are trained for each segment to predict customer churn.
 
@@ -8,7 +8,7 @@ The objective is to improve churn prediction by considering the behavioral diffe
 
 ---
 
-## Features
+## ✨Features
 
 * Data preprocessing and cleaning
 * Customer segmentation using:
@@ -22,7 +22,7 @@ The objective is to improve churn prediction by considering the behavioral diffe
 
 ---
 
-## Dataset
+##📁 Dataset
 
 The project uses the **Customer Churn Dataset** containing customer demographic information, account details, services subscribed, and churn status.
 
@@ -43,7 +43,7 @@ Example attributes include:
 
 ---
 
-## Project Workflow
+## 🔄Project Workflow
 
 ```
 Load Dataset
@@ -80,7 +80,7 @@ Model Evaluation
 
 ---
 
-## Technologies Used
+##🛠️ Technologies Used
 
 * Python
 * Pandas
@@ -90,7 +90,7 @@ Model Evaluation
 
 ---
 
-## Machine Learning Algorithms
+## 🤖Machine Learning Algorithms
 
 ### Clustering
 
