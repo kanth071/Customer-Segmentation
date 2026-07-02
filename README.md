@@ -240,10 +240,3 @@ This project demonstrates:
 
 This project is available under the MIT License.
 
----
-
-## Author
-
-**Your Name**
-
-Feel free to fork this repository, raise issues, or submit pull requests for improvements.
